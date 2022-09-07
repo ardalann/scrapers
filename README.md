@@ -9,7 +9,7 @@ Please help maintain alphabetical order.
 ## Table Of Contents
 - [Apifier](#apifier) [(link)](http://apifier.com)
 - [Beautiful Soup](#beautiful-soup) [(link)](https://www.crummy.com/software/BeautifulSoup/)
-- [Browse AI](#browse-ai) [(link)](https://www.browseai.com/)
+- [Browse AI](#browse-ai) [(link)](https://www.browse.ai/)
 - [Cheerio](#cheerio) [(link)](https://cheerio.js.org/)
 - [Clearbit](#clearbit) [(link)](http://clearbit.com)
 - [Common Crawl](#common-crawl) [(link)](https://commoncrawl.org/)
@@ -70,8 +70,8 @@ Web. It allow for searching the HTML tree to find various tags.
 
 ---
 
-### [Browse AI](https://www.browseai.com/)
-**Description**: Browse AI is a cloud-based SaaS that lets you extract and monitor structured data from any website with no code through a click and extract interface. It also comes with a REST API, webhooks, and native integrations with tools like Google Sheets.
+### [Browse AI](https://www.browse.ai/)
+**Description**: Browse AI is a cloud-based SaaS that lets you extract and monitor structured data from any website with no code through a click and extract interface. It also comes with a REST API, webhooks, and native integrations with tools like Google Sheets, Airtable, and Zapier.
 
 **Applicable Language(s)**
 - C
